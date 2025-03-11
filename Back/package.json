@@ -1,0 +1,22 @@
+{
+  "name": "teste-tecnico-full-stack",
+  "version": "1.0.0",
+  "description": "## Objetivo: Desenvolver uma aplicação web simples que permita ao usuário criar uma conta ou fazer login – utilizando autenticação local ou via GitHub OAuth – e, após autenticado, exibir seus repositórios públicos do GitHub.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faell4328/Teste-Tecnico-Full-Stack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faell4328/Teste-Tecnico-Full-Stack/issues"
+  },
+  "homepage": "https://github.com/Faell4328/Teste-Tecnico-Full-Stack#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
